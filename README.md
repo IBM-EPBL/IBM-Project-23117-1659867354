@@ -10,4 +10,5 @@ Rahul T
 Vijay B M
 
 Our project is about job/skill recommendation for helping 
-who suffer from the jobs and don't have skills to get the job.
+who suffer from the jobs and even they don't have skills to get the job.
+
